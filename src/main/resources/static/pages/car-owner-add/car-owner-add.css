@@ -1,0 +1,20 @@
+#carOwnerForm {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: 1rem auto;
+}
+
+.carOwnerContainer {
+  display: flex;
+  width: 80%;
+  margin: 1rem auto;
+}
+
+#carOwnerForm .actions {
+  display: flex;
+}
+
+#carOwnerForm button {
+  width: 100%;
+}

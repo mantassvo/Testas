@@ -1,0 +1,9 @@
+.carOwnerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 1rem auto;
+}
+.carOwnerContainer #addNewOwner {
+  margin-bottom: 1rem;
+}
